@@ -8,6 +8,7 @@ public class Test {
 		System.out.println(System.getProperty("user.name"));
 		System.out.println("success");
 		System.out.println("success1");
+syso;
 	}
 
 }
